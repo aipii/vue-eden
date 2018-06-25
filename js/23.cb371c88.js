@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[23],{"/cM3":function(t,e,n){"use strict";var a=n("h2Tj"),c=n.n(a);c.a},h2Tj:function(t,e,n){},wR4W:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("el-badge",{staticClass:"notice-area",attrs:{"is-dot":""}},[n("icon",{attrs:{name:"notice",scale:2.8}})],1)},c=[],s=(n("VRzm"),{name:"demo"}),i=s,o=(n("/cM3"),n("KHd+")),r=Object(o["a"])(i,a,c,!1,null,"2be3849a",null);e["default"]=r.exports}}]);
+//# sourceMappingURL=23.cb371c88.js.map
